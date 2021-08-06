@@ -1,0 +1,4 @@
+include ':javapoetlib'
+include ':annotationlib'
+include ':app'
+rootProject.name = "Apt_javaPoet_AutoService"
